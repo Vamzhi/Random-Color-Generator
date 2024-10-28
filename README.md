@@ -25,12 +25,15 @@ link to demo http://127.0.0.1:3000/Random%20Color%20Generator/index.html
 ## Code Overview
 
 - HTML
+
 The HTML file contains the structure of the webpage, including buttons and display areas for the colors.
 
 - CSS
+
 The CSS file styles the webpage, making it visually appealing and responsive.
 
 - JavaScript
+
 The JavaScript file contains the logic for generating random colors and updating the DOM elements.
 
 ## License
