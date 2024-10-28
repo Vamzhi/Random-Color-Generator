@@ -33,3 +33,6 @@ The CSS file styles the webpage, making it visually appealing and responsive.
 - JavaScript
 The JavaScript file contains the logic for generating random colors and updating the DOM elements.
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
